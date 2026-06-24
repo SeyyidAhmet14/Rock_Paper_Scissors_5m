@@ -5,7 +5,8 @@ That game is a RPS game but in that code we have some extra characters
 A fun variation of the classic Rock, Paper, Scissors game, inspired by The Big Bang Theory.
 How to Play
 Choose one of the following options:
-•	🧱 Rock
+*	🧱 Rock
+*	
 •	📄 Paper
 •	✂️ Scissors
 •	🦎 Lizard
